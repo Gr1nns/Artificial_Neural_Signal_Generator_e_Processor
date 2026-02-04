@@ -11,6 +11,5 @@ This project will follow the form of exploratory modular research.
 By generating different types of signals and exploring ways to continuously improve, the project is allowed to evolve with new ideas.
 
 ## Project Status
-Early stages of development.
 
-Trying to create "realistics" neurons to my code.
+Dead
